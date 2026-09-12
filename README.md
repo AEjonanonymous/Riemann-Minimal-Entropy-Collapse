@@ -14,4 +14,4 @@
 
 ## 🚧 Project Status
 
-This repository is actively under construction.
+This README is actively under construction.
