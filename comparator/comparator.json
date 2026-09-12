@@ -1,0 +1,17 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "D_expansion",
+    "C_always_real",
+    "offline_zero_incompatible",
+    "minimal_entropy_collapse",
+    "spectral_rigidity_law"
+  ],
+  "definition_names": [],
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ]
+}
