@@ -1,7 +1,7 @@
 <div align="center">
 
 # <i>Riemann Minimal Entropy Collapse</i>
-### <i>*A Topological Proof by Contradiction of Non-Trivial Zeros via Spectral Rigidity in Lean 4 & Comparator*</i>
+### <i>*A Topological Proof by Contradiction of Non-Trivial Zeros via Spectral Rigidity*</i>
 
 </div>
 
