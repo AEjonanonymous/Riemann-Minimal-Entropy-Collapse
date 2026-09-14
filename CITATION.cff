@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite this research as follows."
+authors:
+  - name: "Jonathan ƒ(n)"
+title: "Riemann Minimal Entropy Collapse - A Topological Proof by Contradiction of Non-Trivial Zeros via Spectral Rigidity in Lean 4 & Comparator"
+version: 1.0.0
+doi: 10.5281/zenodo.22730476
+date-released: 2026-09-13
